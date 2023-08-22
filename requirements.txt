@@ -1,0 +1,7 @@
+flask
+Flask-SQLAlchemy
+psycopg2-binary
+flask-restx
+pyjwt
+datetime
+Flask-JWT-Extended
